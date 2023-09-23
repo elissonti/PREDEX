@@ -14,6 +14,16 @@ Base_MHM
 Analise_externo
 	Base de informação para todos os topos acima 
 
+Github
+
+Comando par configuração git com github, usar o apps no git bash 
+git config --global user.name "Elisson"
+git config --global user.email "elisson.ti@hotmail.com"
+
+Commit no GitHub
+git add . ( Adicionar o arquivo no nuvem no github)
+git commit -m "feat: "AtualizacaoDoDocumentoDeRequisito" (Nome da atualização feita no projeto)
+git push
 
 
 
